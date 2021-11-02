@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\SwapNumber\SwapNumber\bin\Debug\netcoreapp3.1\SwapNumber.exe
+C:\Users\hp\source\repos\SwapNumber\SwapNumber\bin\Debug\netcoreapp3.1\SwapNumber.deps.json
+C:\Users\hp\source\repos\SwapNumber\SwapNumber\bin\Debug\netcoreapp3.1\SwapNumber.runtimeconfig.json
+C:\Users\hp\source\repos\SwapNumber\SwapNumber\bin\Debug\netcoreapp3.1\SwapNumber.runtimeconfig.dev.json
+C:\Users\hp\source\repos\SwapNumber\SwapNumber\bin\Debug\netcoreapp3.1\SwapNumber.dll
+C:\Users\hp\source\repos\SwapNumber\SwapNumber\bin\Debug\netcoreapp3.1\SwapNumber.pdb
+C:\Users\hp\source\repos\SwapNumber\SwapNumber\obj\Debug\netcoreapp3.1\SwapNumber.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\SwapNumber\SwapNumber\obj\Debug\netcoreapp3.1\SwapNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\SwapNumber\SwapNumber\obj\Debug\netcoreapp3.1\SwapNumber.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\SwapNumber\SwapNumber\obj\Debug\netcoreapp3.1\SwapNumber.AssemblyInfo.cs
+C:\Users\hp\source\repos\SwapNumber\SwapNumber\obj\Debug\netcoreapp3.1\SwapNumber.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SwapNumber\SwapNumber\obj\Debug\netcoreapp3.1\SwapNumber.dll
+C:\Users\hp\source\repos\SwapNumber\SwapNumber\obj\Debug\netcoreapp3.1\SwapNumber.pdb
+C:\Users\hp\source\repos\SwapNumber\SwapNumber\obj\Debug\netcoreapp3.1\SwapNumber.genruntimeconfig.cache
