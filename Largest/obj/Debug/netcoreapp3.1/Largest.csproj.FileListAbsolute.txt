@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Largest\Largest\obj\Debug\netcoreapp3.1\Largest.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Largest\Largest\obj\Debug\netcoreapp3.1\Largest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Largest\Largest\obj\Debug\netcoreapp3.1\Largest.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Largest\Largest\obj\Debug\netcoreapp3.1\Largest.AssemblyInfo.cs
+C:\Users\hp\source\repos\Largest\Largest\obj\Debug\netcoreapp3.1\Largest.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Largest\Largest\bin\Debug\netcoreapp3.1\Largest.exe
+C:\Users\hp\source\repos\Largest\Largest\bin\Debug\netcoreapp3.1\Largest.deps.json
+C:\Users\hp\source\repos\Largest\Largest\bin\Debug\netcoreapp3.1\Largest.runtimeconfig.json
+C:\Users\hp\source\repos\Largest\Largest\bin\Debug\netcoreapp3.1\Largest.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Largest\Largest\bin\Debug\netcoreapp3.1\Largest.dll
+C:\Users\hp\source\repos\Largest\Largest\bin\Debug\netcoreapp3.1\Largest.pdb
+C:\Users\hp\source\repos\Largest\Largest\obj\Debug\netcoreapp3.1\Largest.dll
+C:\Users\hp\source\repos\Largest\Largest\obj\Debug\netcoreapp3.1\Largest.pdb
+C:\Users\hp\source\repos\Largest\Largest\obj\Debug\netcoreapp3.1\Largest.genruntimeconfig.cache
