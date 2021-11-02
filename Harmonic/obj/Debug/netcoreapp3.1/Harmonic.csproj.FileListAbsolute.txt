@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\Harmonic\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.exe
+C:\Users\hp\source\repos\Harmonic\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.deps.json
+C:\Users\hp\source\repos\Harmonic\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.runtimeconfig.json
+C:\Users\hp\source\repos\Harmonic\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.runtimeconfig.dev.json
+C:\Users\hp\source\repos\Harmonic\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.dll
+C:\Users\hp\source\repos\Harmonic\Harmonic\bin\Debug\netcoreapp3.1\Harmonic.pdb
+C:\Users\hp\source\repos\Harmonic\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\Harmonic\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\Harmonic\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\Harmonic\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.AssemblyInfo.cs
+C:\Users\hp\source\repos\Harmonic\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\Harmonic\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.dll
+C:\Users\hp\source\repos\Harmonic\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.pdb
+C:\Users\hp\source\repos\Harmonic\Harmonic\obj\Debug\netcoreapp3.1\Harmonic.genruntimeconfig.cache
