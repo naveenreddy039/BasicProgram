@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\PowerO\PowerO\bin\Debug\netcoreapp3.1\PowerO.exe
+C:\Users\hp\source\repos\PowerO\PowerO\bin\Debug\netcoreapp3.1\PowerO.deps.json
+C:\Users\hp\source\repos\PowerO\PowerO\bin\Debug\netcoreapp3.1\PowerO.runtimeconfig.json
+C:\Users\hp\source\repos\PowerO\PowerO\bin\Debug\netcoreapp3.1\PowerO.runtimeconfig.dev.json
+C:\Users\hp\source\repos\PowerO\PowerO\bin\Debug\netcoreapp3.1\PowerO.dll
+C:\Users\hp\source\repos\PowerO\PowerO\bin\Debug\netcoreapp3.1\PowerO.pdb
+C:\Users\hp\source\repos\PowerO\PowerO\obj\Debug\netcoreapp3.1\PowerO.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\PowerO\PowerO\obj\Debug\netcoreapp3.1\PowerO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\PowerO\PowerO\obj\Debug\netcoreapp3.1\PowerO.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\PowerO\PowerO\obj\Debug\netcoreapp3.1\PowerO.AssemblyInfo.cs
+C:\Users\hp\source\repos\PowerO\PowerO\obj\Debug\netcoreapp3.1\PowerO.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\PowerO\PowerO\obj\Debug\netcoreapp3.1\PowerO.dll
+C:\Users\hp\source\repos\PowerO\PowerO\obj\Debug\netcoreapp3.1\PowerO.pdb
+C:\Users\hp\source\repos\PowerO\PowerO\obj\Debug\netcoreapp3.1\PowerO.genruntimeconfig.cache
