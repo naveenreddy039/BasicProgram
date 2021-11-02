@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\LeepYear\LeepYear\bin\Debug\netcoreapp3.1\LeepYear.exe
+C:\Users\hp\source\repos\LeepYear\LeepYear\bin\Debug\netcoreapp3.1\LeepYear.deps.json
+C:\Users\hp\source\repos\LeepYear\LeepYear\bin\Debug\netcoreapp3.1\LeepYear.runtimeconfig.json
+C:\Users\hp\source\repos\LeepYear\LeepYear\bin\Debug\netcoreapp3.1\LeepYear.runtimeconfig.dev.json
+C:\Users\hp\source\repos\LeepYear\LeepYear\bin\Debug\netcoreapp3.1\LeepYear.dll
+C:\Users\hp\source\repos\LeepYear\LeepYear\bin\Debug\netcoreapp3.1\LeepYear.pdb
+C:\Users\hp\source\repos\LeepYear\LeepYear\obj\Debug\netcoreapp3.1\LeepYear.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\LeepYear\LeepYear\obj\Debug\netcoreapp3.1\LeepYear.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\LeepYear\LeepYear\obj\Debug\netcoreapp3.1\LeepYear.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\LeepYear\LeepYear\obj\Debug\netcoreapp3.1\LeepYear.AssemblyInfo.cs
+C:\Users\hp\source\repos\LeepYear\LeepYear\obj\Debug\netcoreapp3.1\LeepYear.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\LeepYear\LeepYear\obj\Debug\netcoreapp3.1\LeepYear.dll
+C:\Users\hp\source\repos\LeepYear\LeepYear\obj\Debug\netcoreapp3.1\LeepYear.pdb
+C:\Users\hp\source\repos\LeepYear\LeepYear\obj\Debug\netcoreapp3.1\LeepYear.genruntimeconfig.cache
